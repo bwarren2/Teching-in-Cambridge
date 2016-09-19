@@ -1,6 +1,6 @@
 # Teching in Cambridge
 
-I spent almost two years doing independent techie work in Cambridge.  Here are thing things you should know as a person thinking about doing the same thing; where to go, what to do, etc.
+I spent almost two years doing self-directed tech work in Cambridge.  Here are thing things you should know as a person thinking about doing the same thing; where to go, what to do, etc.
 
 ## Sections
 

@@ -12,7 +12,7 @@ Honey butter biscuits.  Eggs benedict.  Latte.  Basically anything.
 
 ## B Goode
 
-Vaguely healthy eatery in Harvard.
+Vaguely healthy chain in Harvard, among other places.
 
 ### Things to get
 
