@@ -58,3 +58,10 @@ The Cambridge chocolatier.  Expensive, but the cannot-fail gift.
 
 Their hot chocolate is very rich and particularly special.
 
+## Alive & Kicking Lobsters
+
+A [hole in the wall](https://www.yelp.com/biz/alive-and-kicking-lobsters-cambridge), but great.
+
+### Things to get
+
+Lobster sandwich.
