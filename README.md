@@ -2,10 +2,10 @@
 
 ## Sections
 
-[Things to do](things_to_do.md)
-[Food](food.md)
-[Work](work.md)
-[Boston Food](boston_food.md)
+ * [Things to do](things_to_do.md)
+ * [Food](food.md)
+ * [Work](work.md)
+ * [Boston Food](boston_food.md)
 
 ## General Advice
 
